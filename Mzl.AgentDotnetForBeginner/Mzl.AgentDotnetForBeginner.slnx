@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Mzl.Agent.Comm/Mzl.Agent.Comm.csproj" />
+  <Project Path="Mzl.AgentDotnetForBeginner.csproj" />
+</Solution>
