@@ -8,10 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CommunityToolkit.VectorData.InMemory" Version="1.0.0" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Mzl.Agent.Comm\Mzl.Agent.Comm.csproj" />
   </ItemGroup>
 

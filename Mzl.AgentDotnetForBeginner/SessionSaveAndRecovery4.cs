@@ -41,7 +41,7 @@ namespace Mzl.AgentDotnetForBeginner
 
             // 转换为字符串并保存到存储
             string jsonString = JsonSerializer.Serialize(serializedSession);
-            var filePath = Path.Combine(AppContext.BaseDirectory, $"sessions/temp.txt");
+            var filePath = Path.Combine(AppContext.BaseDirectory, $"sessions/session4.txt");
             await File.WriteAllTextAsync(filePath, jsonString);
 
             Console.WriteLine();

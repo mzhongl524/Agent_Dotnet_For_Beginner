@@ -15,7 +15,7 @@ namespace Mzl.Agent.Comm
                 var httpClient = new HttpClient()
                 {
                     BaseAddress = arguments.Uri,
-                    Timeout = TimeSpan.FromMinutes(5),
+                    Timeout = TimeSpan.FromMinutes(10),
                 };
                 return new OllamaApiClient(httpClient, arguments.Model);
             }
