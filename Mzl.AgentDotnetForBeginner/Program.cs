@@ -14,7 +14,9 @@
 
             //await SessionReduce5.RunAsync();
 
-            await ToolCalling6.RunAsync();
+            //await ToolCalling6.RunAsync();
+
+            await PluginSys7.RunAsync();
 
             Console.ReadKey();
         }
