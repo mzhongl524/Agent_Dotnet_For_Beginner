@@ -16,7 +16,13 @@
 
             //await ToolCalling6.RunAsync();
 
-            await PluginSys7.RunAsync();
+            //await PluginSys7.RunAsync();
+
+            //await CustomFileStore8.RunAsync();
+
+            //await HumanMachineCollaboration9.RunAsync();
+
+            await StructuredOutput10.RunAsync();
 
             Console.ReadKey();
         }
