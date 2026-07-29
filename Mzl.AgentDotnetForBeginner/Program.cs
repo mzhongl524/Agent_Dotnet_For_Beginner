@@ -22,7 +22,11 @@
 
             //await HumanMachineCollaboration9.RunAsync();
 
-            await StructuredOutput10.RunAsync();
+            //await StructuredOutput10.RunAsync();
+
+            //await Middleware111213.RunAsync();
+
+            await AgentAsFuc14.RunAsync();
 
             Console.ReadKey();
         }
